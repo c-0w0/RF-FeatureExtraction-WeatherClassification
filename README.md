@@ -1,4 +1,4 @@
-# Feature Extraction for Weatehr Classification using Random Forest
+# Feature Extraction for Weather Classification using Random Forest
 
 ## Dataset
 
